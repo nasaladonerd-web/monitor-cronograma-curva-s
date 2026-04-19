@@ -22,7 +22,7 @@ Modelo em Python para cálculo de avanço planejado x realizado com visualizaç�
 > Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
 
 ## Status
-**Em construção (entregas incrementais semanais)**
+**Estudo aplicado**
 
 ## Roadmap curto
 - [ ] Implementar versão mínima funcional (MVP)
@@ -34,3 +34,8 @@ Modelo em Python para cálculo de avanço planejado x realizado com visualizaç�
 ```bash
 # em breve
 ```
+
+## Próxima entrega da semana
+- [ ] Montar dataset de exemplo com planejado e realizado
+- [ ] Implementar cálculo inicial da curva S acumulada
+- [ ] Gerar visualização comparativa para identificar desvios
