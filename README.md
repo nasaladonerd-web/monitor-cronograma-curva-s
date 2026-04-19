@@ -1,5 +1,7 @@
 # Monitor de Cronograma e Curva S
 
+> 🚧 **Em construção:** este projeto está sendo desenvolvido aos poucos, com entregas incrementais.
+
 ## Problema
 Antecipar atrasos e desvios de custo com base em cronograma físico-financeiro e metas planejadas.
 
