@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b3d91"/>
+      <stop offset="100%" stop-color="#1b8ec6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="60" y="180" fill="#ffffff" font-size="56" font-family="Segoe UI, Arial, sans-serif">Monitor de Cronograma e Curva S</text>
+  <text x="60" y="270" fill="#eaf6ff" font-size="32" font-family="Segoe UI, Arial, sans-serif">Preview temporário do projeto</text>
+  <text x="60" y="330" fill="#eaf6ff" font-size="28" font-family="Segoe UI, Arial, sans-serif">Substituir por imagem/GIF de execução real</text>
+  <text x="60" y="520" fill="#ffffff" font-size="24" font-family="Segoe UI, Arial, sans-serif">@nasaladonerd-web</text>
+</svg>
