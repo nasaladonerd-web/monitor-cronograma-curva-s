@@ -22,7 +22,7 @@ Modelo em Python para cálculo de avanço planejado x realizado com visualizaç�
 > Substitua depois por GIF real da execução (ex.: assets/demo.gif) assim que a primeira versão funcional estiver pronta.
 
 ## Status
-**Estudo aplicado**
+**Em construção (entregas incrementais semanais)**
 
 ## Roadmap curto
 - [ ] Implementar versão mínima funcional (MVP)
